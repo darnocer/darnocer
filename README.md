@@ -1,4 +1,4 @@
-# Non-Dev Projects :)
+# Non-Dev but Related Projects :)
 
 ## Complete Documentation 
 I believe that complete, but simple and easy-to-understand documentation should also be readily available and easy to find. I also think more things need to be written in bullet points!! I often find myself compiling the essentials for my own understanding, and I want to share some of the highlights with the world in hopes of helping just one other person! :earth_americas:
