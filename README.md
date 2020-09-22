@@ -8,9 +8,7 @@
 `#IAMTUF`
 
 ## The Vault
-I believe that complete, but concise documentation should be readily available and easy to find. I also think more things need to be written in bullet points! I love to encourage knowledge sharing among my peers, so we can all learn and grow together. I often find myself compiling the essentials for my own understanding, and I want to formally share some of the highlights with the world in hopes of helping just one other person! :earth_americas:
-
-Check out THE VAULT on my other account [darnocers-tips](https://github.com/darnocers-tips) for summaries and gotchas of Heroku, React, and more! 
+I love good documentation. Check out my other account [darnocers-tips](https://github.com/darnocers-tips) for summaries and gotchas of Heroku, React, and more! 
 
 
 
