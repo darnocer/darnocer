@@ -8,7 +8,7 @@
 `#IAMTUF`
 
 ## The Vault
-I love good documentation. Check out my other account [darnocers-tips](https://github.com/darnocers-tips) for summaries and gotchas of Heroku, React, and more! 
+I love good documentation and writing about code. Check out my [DEV](https://dev.to/darnocer) for summaries and gotchas of Heroku, React, and more! 
 
 
 
