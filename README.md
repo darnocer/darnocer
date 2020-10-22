@@ -10,6 +10,4 @@ I'm a proud team member & supporter of [The Underdog Foundation](https://theunde
 `#IAMTUF`
 
 ## Connect With Me
-
-
-[![DEV](/dev.png)](https://dev.to/darnocer) [![linkedin](/linkedin.png)](https://www.linkedin.com/in/darian-nocera/) [![email](/email.png)](mailto:hello@dariannocera.com)
+[![DEV](/dev.png)](https://dev.to/darnocer) [![linkedin](/linkedin.png)](https://www.linkedin.com/in/darian-nocera/)
