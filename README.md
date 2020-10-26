@@ -2,6 +2,9 @@
 
 A full stack web developer & designer that uses technical expertise to take small businesses & entrepreneurs to the next level. 
 
+* :computer:**[Development Portfolio](https://dariannocera.netlify.app/)**
+* :art: **[Web Design Services](https://www.dariannocera.com)**
+
 ## The Underdog Foundation
 <img src="TUFlogo_square_small.png" alt="TUF Logo" align="right" style="width:10%">
 
