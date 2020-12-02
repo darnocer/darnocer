@@ -4,6 +4,9 @@ I'm a front-end web developer & designer that uses technical expertise to take s
 
 * :computer:**[Development Portfolio](https://dariannocera.netlify.app/)**
 
+_New portfolio including design projects coming soon_
+
+
 ## Root for the Underdog!
 <img src="TUFlogo_square_small.png" alt="TUF Logo" align="right" style="width:10%">
 
