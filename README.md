@@ -16,4 +16,4 @@ _Let's get to work!_
 `#IAMTUF`
 
 ## Connect With Me
-[![DEV](/dev.png)](https://dev.to/darnocer) [![linkedin](/linkedin.png)](https://www.linkedin.com/in/darian-nocera/)
+[![linkedin](/linkedin.png)](https://www.linkedin.com/in/darian-nocera/) [![DEV](/dev.png)](https://dev.to/darnocer) 
