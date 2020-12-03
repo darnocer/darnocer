@@ -1,10 +1,9 @@
 # I'm Darian 👋
 
-I'm a front-end web developer & designer that uses technical expertise to take small businesses & entrepreneurs to the next level. 
 
-* :computer:**[Development Portfolio](https://dariannocera.netlify.app/)**
+* **[Full Stack Web Development Portfolio](https://dariannocera.netlify.app/)**
 
-_New portfolio including design projects coming soon_
+_New portfolio in progress_
 
 
 ## Root for the Underdog!
