@@ -1,4 +1,4 @@
-# I'm Darian 👋
+# I'm Darian!
 
 
 * **[Full Stack Web Development Portfolio](https://dariannocera.netlify.app/)**
