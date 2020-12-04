@@ -1,9 +1,8 @@
 # I'm Darian!
 
 
-* **[Full Stack Web Development Portfolio](https://dariannocera.netlify.app/)**
+ **[Portfolio](www.dnocera.com/)**
 
-_New portfolio in progress_
 
 
 ## Root for the Underdog!
