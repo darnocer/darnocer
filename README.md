@@ -9,4 +9,4 @@ Here's my ever-evolving **[portfolio](https://www.dnocera.com/)**
 
 `#IAMTUF`
 
-#### Connect With Me: [![linkedin](/linkedin.png)](https://www.linkedin.com/in/darian-nocera/) [![DEV](/dev.png)](https://dev.to/darnocer) [![codepen](/codepen.png)](https://codepen.io/dariannocera) 
+#### Connect With Me: [![linkedin](/linkedin.png)](https://www.linkedin.com/in/darian-nocera/) [![DEV](/dev.png)](https://dev.to/darnocer) [![codepen](/codepen.png)](https://codepen.io/darnocer) 
