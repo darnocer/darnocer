@@ -1,7 +1,7 @@
 # I'm Darian!
 
 
- Check out my portfolio here: **[Portfolio](www.dnocera.com/)**
+ Check out my portfolio here: **[Portfolio](https://www.dnocera.com/)**
 
 
 
