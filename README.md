@@ -1,10 +1,9 @@
 # I'm Darian!
 
-* I code for fun and volunteer my time to design websites for small buisinesses imapcted by COVID-19. 
 
-* Here's my ever-evolving **[portfolio](https:/www.darnocer.io)**.
+* **[Personal Website](https:/www.darnocer.io)**.
 
-* I like to share what I know on [DEV](https://dev.to/darnocer), [Codepen](https://codepen.io/darnocer), and [Gists](https://gist.github.com/darnocer). 
+* [DEV](https://dev.to/darnocer), [Codepen](https://codepen.io/darnocer), [Gists](https://gist.github.com/darnocer). 
 
 * Connect with me on [LinkedIn](https://www.linkedin.com/in/darian-nocera/).
 
