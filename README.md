@@ -1,11 +1,11 @@
 # I'm Darian!
 
 
-* **[Personal Website](https:/www.darnocer.io)**.
+* **[Personal Website](https:/www.darnocer.io)**
 
-* [DEV](https://dev.to/darnocer), [Codepen](https://codepen.io/darnocer), [Gists](https://gist.github.com/darnocer). 
+* [DEV](https://dev.to/darnocer), [Codepen](https://codepen.io/darnocer), [Gists](https://gist.github.com/darnocer)
 
-* Connect with me on [LinkedIn](https://www.linkedin.com/in/darian-nocera/).
+*[LinkedIn](https://www.linkedin.com/in/darian-nocera/)
 
 
 ## Root for the Underdog!
