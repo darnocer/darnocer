@@ -1,7 +1,7 @@
 # I'm Darian!
 
 
-* **Personal Website** built with Vue.js & SCSS: [darnocer.io](https:/www.darnocer.io)
+* **Personal Website** built with Vue.js & SCSS: [darnocer.io](https://www.darnocer.io)
 
 * [DEV](https://dev.to/darnocer), [Codepen](https://codepen.io/darnocer), [Gists](https://gist.github.com/darnocer)
 
