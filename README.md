@@ -1,15 +1,16 @@
-# I'm Darian!
+# Sup
 
+I make websites and I help others make websites, too. 
 
-* **Personal Website** built with Vue.js & SCSS: [darnocer.io](https://www.darnocer.io)
+**Personal Website:** [darnocer.io](https://www.darnocer.io)
 
-* [DEV](https://dev.to/darnocer), [Codepen](https://codepen.io/darnocer), [Gists](https://gist.github.com/darnocer)
+**Knowledge Sharing:** [DEV](https://dev.to/darnocer) | [Codepen](https://codepen.io/darnocer) | [Gists](https://gist.github.com/darnocer)
 
-* [LinkedIn](https://www.linkedin.com/in/darian-nocera/)
+Connect with me on [LinkedIn](https://www.linkedin.com/in/darian-nocera/)!
 
 
 ## Root for the Underdog!
 
-<img align="right" width="150" src="/TUF_logo_circle_small_200.png"> I'm a proud team member & supporter of [The Underdog Foundation](http://www.iamtuf.org), a 501(c)(3) non-profit organization that specializes in providing business development services such as web design, professional photography, online ordering setup, & more to underserved small, local businesses in the Denver area, completely free of charge. _Let's get to work!_ 
+<img align="right" width="150" src="/TUF_logo_circle_small_200.png"> I'm a proud member of [The Underdog Family](http://www.iamtuf.org), a 501(c)(3) non-profit organization that connects small business owners in Denver to the community through providing providing professional resources at no cost. _Let's get to work!_ 
 
 `#IAMTUF`
