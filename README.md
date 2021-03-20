@@ -1,6 +1,8 @@
-# Sup
+# Sup.
 
 I make websites and I help others make websites, too. 
+
+## Holla @ Me
 
 **Personal Website:** [darnocer.io](https://www.darnocer.io)
 
