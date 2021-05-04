@@ -4,7 +4,7 @@ I really freakin' like making websites.
 
 ## Holla @ Me
 
-**Personal Website:** [darnocer.io](https://www.darian.digital)
+**Personal Website:** [darian.digital](https://www.darian.digital)
 
 **Knowledge Sharing:** [DEV](https://dev.to/darnocer) | [Codepen](https://codepen.io/darnocer) | [Gists](https://gist.github.com/darnocer)
 
