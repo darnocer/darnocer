@@ -1,6 +1,6 @@
 # Sup.
 
-I really freakin' like making websites. 
+I really freakin' like making websites & getting $#!+ done. 
 
 ## Holla @ Me
 
