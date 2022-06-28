@@ -10,7 +10,7 @@ I like web stuff.
 Connect with me on [LinkedIn](https://www.linkedin.com/in/darian-nocera/)!
 
 ## 💻 Dev Stuff
-* [DEV](https://dev.to/darnocer) 
+* [DEV.to](https://dev.to/darnocer) 
 * [Codepen](https://codepen.io/darnocer)
 * [Gists](https://gist.github.com/darnocer)
 
