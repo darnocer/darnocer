@@ -5,7 +5,7 @@ I like web stuff.
 ## ✨ My Stuff
 * [darian.digital](https://www.darian.digital)
 * [The Underdog Family](http://www.iamtuf.org)
-* [Made by RVG](https://www.madebyrvg.com) `coming soon`
+* [rootedvision.co](rootedvision.co) `coming soon`
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/darian-nocera/)!
 
