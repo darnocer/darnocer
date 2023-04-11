@@ -1,17 +1,7 @@
-# Sup.
-
-I like web stuff. 
-
-## ✨ My Stuff
-* [darian.digital](https://www.darian.digital)
-* [The Underdog Family](http://www.iamtuf.org)
-* [rootedvision.co](rootedvision.co) `coming soon`
+# ✨ My Stuff
+* [darian.digital](https://www.darian.digital) - web dev portfolio
+* [dariannocera.com](https://www.dariannocera.com) - personal blog
+* [The Underdog Family](http://www.iamtuf.org) - a non-profit I co-founded
+* [Gists](https://gist.github.com/darnocer) - snippets galore 
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/darian-nocera/)!
-
-## 💻 Dev Stuff
-* [DEV.to](https://dev.to/darnocer) 
-* [Codepen](https://codepen.io/darnocer)
-* [Gists](https://gist.github.com/darnocer)
-
-
